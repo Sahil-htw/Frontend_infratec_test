@@ -3,6 +3,7 @@ module.exports = {
     './dist/{html,js}',
     './src/{html,js}',
     './dist/index.html',
+    
 
 
 ],

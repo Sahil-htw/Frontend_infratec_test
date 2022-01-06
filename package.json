@@ -1,0 +1,23 @@
+{
+  "name": "frontend_infratec_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahil-htw/Frontend_infratec_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahil-htw/Frontend_infratec_test/issues"
+  },
+  "homepage": "https://github.com/Sahil-htw/Frontend_infratec_test#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.11"
+  }
+}
